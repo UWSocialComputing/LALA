@@ -33,6 +33,12 @@ So far we have received 67 responses from participants, all from our intended us
 
 * The most commonly used tools were: _**planner/to-do list, Google Calendar, Discord, and Do Not Disturb.**_
 
+If there was a perfect productivity tool, what features would exist?
+![WordCloud](https://github.com/UWSocialComputing/LALA/blob/main/images/mypic%20(1).png)
+
+For the tool that you use the most, how do you use it and what is the most compelling or useful feature that it has?
+![WordCloud](https://github.com/UWSocialComputing/LALA/blob/main/images/mypic.png)
+
 
 ## Design Challenges/Opportunities
 Overall, our survey data showed that the majority of our participants still struggle with burnout at the end of a study session even when they feel satisfied with their productivity levels. They like to use calendar apps and to-do lists to keep track of their activities as well as Discord and Slack to communicate and study with friends. However, their biggest distractions also come from their phones and digital devices as well. Some participants also mentioned that it would be nice to have a “reward” at the end of a study session which would motivate them to be more productive. Additionally, a few mentioned that they like to study with others to keep themselves accountable. This suggests that developing an environment that is conducive to studying is important to our users. Through our research, we learned that the environment plays a large role in productivity, particularly due to easy access to distractions and lack of a social network.
