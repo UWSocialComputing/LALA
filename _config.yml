@@ -20,7 +20,7 @@ description: "Can we use technology to keep us productive but also mitigate the 
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
