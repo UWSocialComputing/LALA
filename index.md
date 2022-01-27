@@ -1,6 +1,2 @@
 
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Our team is interested in understanding how we can best help students streamline their productivity and to help limit burnout.
