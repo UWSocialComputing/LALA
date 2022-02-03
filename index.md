@@ -3,7 +3,7 @@ Our team is interested in understanding how we can best help students streamline
 
 Meet the team:
 
-## Aerin Malana
+## Lizzie Gossman
 
 ![Lizzie](https://github.com/UWSocialComputing/LALA/blob/main/images/IMG_6962.jpg)
 
