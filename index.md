@@ -5,11 +5,11 @@ Meet the team:
 
 ## Aerin Malana
 
-![Lizzie]https://github.com/UWSocialComputing/LALA/blob/main/images/IMG_6962.jpg)
+![Lizzie](https://github.com/UWSocialComputing/LALA/blob/main/images/IMG_6962.jpg)
 
 ## Aerin Malana
 
-![Aerin]https://github.com/UWSocialComputing/LALA/blob/main/images/aerin_malana.png)
+![Aerin](https://github.com/UWSocialComputing/LALA/blob/main/images/aerin_malana.png)
 
 ## Lynda Pham
 
