@@ -1,4 +1,4 @@
-# G1 
+# G2 
 _Project Pitch_
 
 ## Solution Direction: Task and Time Management
