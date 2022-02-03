@@ -22,8 +22,8 @@ _Project Pitch_
 ## Solution Direction: Community Focus with Discord
 
 * Integrate personal calendar with Discord
-    *Discord now commonly used for classes
-    *Server-wide reminders of class assignments + due dates
+    * Discord now commonly used for classes
+    * Server-wide reminders of class assignments + due dates
 
  * Create more opportunities for collaboration + socialization
     * Study sessions/progress check-ins based on upcoming due dates
