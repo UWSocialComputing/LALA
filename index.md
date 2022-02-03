@@ -3,6 +3,6 @@ Our team is interested in understanding how we can best help students streamline
 
 Meet the team:
 
+## Lynda Pham
 
-
-![Lynda](/images/Lynda Profile.jpeg)
+![Lynda](https://github.com/UWSocialComputing/LALA/blob/main/images/Lynda%20Profile.jpeg)
