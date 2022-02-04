@@ -5,13 +5,13 @@ Meet the team:
 
 ## Lizzie Gossman
 
-![Lizzie](https://github.com/UWSocialComputing/LALA/blob/main/images/IMG_6962.jpg)
+![Lizzie](/LALA/images/IMG_6962.jpg)
 
 ## Aerin Malana
 
-![Aerin](https://github.com/UWSocialComputing/LALA/blob/main/images/aerin_malana.png)
+![Aerin](/LALA/images/aerin_malana.png)
 
 ## Lynda Pham
 
-![Lynda](https://github.com/UWSocialComputing/LALA/blob/main/images/Lynda%20Profile.jpeg)
+![Lynda](/LALA/images/Lynda%20Profile.jpeg)
 
