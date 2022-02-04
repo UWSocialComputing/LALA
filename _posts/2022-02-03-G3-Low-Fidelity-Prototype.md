@@ -5,7 +5,7 @@ _Low Fidelity Prototype_
 
 * What were your goals with this wizard of oz session: what did you want to learn and measure?
     * The goal of this session was to run a simulated study session on Discord using Bot Prompts. Based on our initial research, we determined that users would like to be able to schedule and receive reminders for study sessions and have accountability measures throughout the session to keep themselves on track. 
-We wanted to learn how the participants’ behavior either validated or challenged these assumptions to help further our design and implementation. So, we took careful notes and asked follow-up questions to gauge specific points that were interesting to our implementation and design decisions, including what features they hoped to see in our tool.
+   * We wanted to learn how the participants’ behavior either validated or challenged these assumptions to help further our design and implementation. So, we took careful notes and asked follow-up questions to gauge specific points that were interesting to our implementation and design decisions, including what features they hoped to see in our tool.
 
 
 ## Images of Prototype
