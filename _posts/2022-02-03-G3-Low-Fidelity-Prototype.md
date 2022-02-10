@@ -12,19 +12,19 @@ _Low Fidelity Prototype_
 
 ![img1](/LALA/images/img1.schedulestudy.png)
 
-Image I. User initiates a study session; this causes the bot to extend an invitation to the others in the channel.
+**Image I.** User initiates a study session; this causes the bot to extend an invitation to the others in the channel.
 
 ![img2](/LALA/images/img2.startstudy.png)
 
-Image II. The study session begins and the bot asks users what they are working on.
+**Image II.** The study session begins and the bot asks users what they are working on.
 
 ![img3](/LALA/images/img3.checkin.png)
 
-Image III. The bot prompts users throughout their study session at the end of every hour.
+**Image III.** The bot prompts users throughout their study session at the end of every hour.
 
 ![img4](/LALA/images/img4.wrapup.png)
 
-Image IV. The bot wraps up the session by recapping goals and asking for ratings.
+**Image IV.** The bot wraps up the session by recapping goals and asking for ratings.
 
 ## Findings from Session
 
