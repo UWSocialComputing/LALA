@@ -43,7 +43,7 @@ _Code and Design Specification_
 ![G4-storyboard1](/LALA/images/G4-storyboard1.PNG)
 
 **Scenario 2:** People track each other's goals and hold each other accountable during a group study session run by bot. 
-![G4-storyboard2.PNG](/LALA/images/G4-storyboard2.PNG)
+![G4-storyboard2](/LALA/images/G4-storyboard2.PNG)
 
 ## Part 3: Architectural Design
 ![G4-ArchitecturalDesign](/LALA/images/G4-ArchitecturalDesign.jpg)
