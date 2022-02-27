@@ -1,5 +1,5 @@
-# G3
-_Low Fidelity Prototype_
+# Low Fidelity Prototype
+_Assignment G3_
 
 ## Session Goals
 
