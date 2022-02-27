@@ -17,7 +17,7 @@ You can find all the functionalities in our ```bot.py``` file. We didn’t creat
 
 **Image II.** User schedules a study session and the bot sends a poll to the channel.
 
-![G6BotStudyChanel](/LALA/images/G6BotStudyChanel.PNG)
+![G6BotStudyChanel](/LALA/images/G6/G6BotStudyChanel.PNG)
 
 **Image III.** When the study session time begins, users are added to a new channel for the session and notified it has started.
 
