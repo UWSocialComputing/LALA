@@ -9,6 +9,18 @@ You can find all the functionalities in our ```bot.py``` file. We didn’t creat
 
 ## Part 2: Screenshot/photo of the prototype:
 
+![G6BotDM](/LALA/images/G6/G6BotDM.JPG)
+
+**Image I.** Onboarding DM from Bot to new user upon joining the server.
+
+![G6BotSchedule](/LALA/images/G6/G6BotSchedule.PNG)
+
+**Image II.** User schedules a study session and the bot sends a poll to the channel.
+
+![G6BotStudyChanel](/LALA/images/G6BotStudyChanel.PNG)
+
+**Image III.** When the study session time begins, users are added to a new channel for the session and notified it has started.
+
 ## Part 3: Findings from the user testing sessions
 
 ### What did you learn in the user testing sessions?
