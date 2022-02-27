@@ -1,5 +1,5 @@
 # User Research
-_Project Assignment G1_
+_Assignment G1_
 
 ## Project Overview
 With everyone in our group being college-aged students going into new grad life, we’ve experienced the troubles and consequences of education and technology intertwining more and more. The utilization of platforms such as Discord, Slack, Google Calendar, Notion, and more have helped students like us to organize their tasks, keep track of deadlines, and more. But at the same time, this usage has kept our attention locked on screens, hour after hour, causing screen fatigue and burnout. This begs the question, _can we use technology to keep us productive but also mitigate the effects of prolonged screen time?_
