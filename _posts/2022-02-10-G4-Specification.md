@@ -1,5 +1,5 @@
-# G4
-_Code and Design Specification_
+# Code and Design Specification
+_Assignment G4_
 
 ## Part 1: Requirements
 
