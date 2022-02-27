@@ -1,5 +1,5 @@
-# G6
-_User Testing_
+# User Testing
+_Assignment G6_
 
 ## Part 1: Description of your medium-fidelity prototype
 
