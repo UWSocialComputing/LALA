@@ -1,14 +1,13 @@
 
-# The Problem
+# The Project
 
 Our team is interested in understanding how we can best help students _streamline their productivity and to help limit burnout._
 
-# The Team:
+# The Team
 ![Team_Pictures](/LALA/images/LALAProfilePics.png)
 
 # The Solution
-
-![StudyCafeBot Logo](/LALA/images/Logo.png)
+<div style="text-align:center"><img src="https://github.com/UWSocialComputing/LALA/blob/main/images/Logo.png" /></div>
 
 Check out our <a href="https://github.com/UWSocialComputing/LALA-Project/blob/main/README.md">GitHub Respository</a> to learn more!
 
