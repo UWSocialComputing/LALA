@@ -8,9 +8,9 @@ Our team is interested in understanding how we can best help students _streamlin
 
 # The Solution
 
-## StudyCafeBot
+![StudyCafeBot Logo](/LALA/images/Logo.png)
 
-_visit out GitHub repository to see more:_ https://github.com/UWSocialComputing/LALA-Project/blob/main/README.md
+Check out our <a href="https://github.com/UWSocialComputing/LALA-Project/blob/main/README.md">GitHub Respository</a> to learn more!
 
 ## 🔍  About Our Tool
 
