@@ -1,7 +1,7 @@
 
 # The Project
 
-Our team is interested in understanding how we can best help students _streamline their productivity and to help limit burnout._
+Our team is interested in understanding how we can best help students _**streamline their productivity**_ and _**limit burnout.**_
 
 # The Team
 ![Team_Pictures](/LALA/images/LALAProfilePics.png)
