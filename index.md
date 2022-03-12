@@ -6,4 +6,4 @@ Check out our <a href="https://github.com/UWSocialComputing/LALA-Project">GitHub
 <div style="text-align:center"><img src="https://github.com/UWSocialComputing/LALA/blob/ab9bb659e874fd3d908583ec2b4d9524ee5407a6/images/StudyCafeBot%20Poster.png?raw=true"/></div>
 
 # Meet The Team
-<div><img src="https://github.com/UWSocialComputing/LALA/blob/1f718bf393f342ccdc4639787bed83efefcff65a/images/LALABanner.png?raw=true" width=auto height=auto/></div>
+<div><img src="https://github.com/UWSocialComputing/LALA/blob/7a3eab6eab8864de2462f8f455014c2cba1a88af/images/LALABanner%20(1).png?raw=true" width=auto height=auto/></div>
