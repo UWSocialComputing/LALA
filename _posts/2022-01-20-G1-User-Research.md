@@ -34,10 +34,10 @@ So far we have received 67 responses from participants, all from our intended us
 * The most commonly used tools were: _**planner/to-do list, Google Calendar, Discord, and Do Not Disturb.**_
 
 If there was a perfect productivity tool, what features would exist?
-![WordCloud](/LALA/images/mypic%20(1).png)
+<div style="text-align:center"><img src="https://github.com/UWSocialComputing/LALA/blob/79efe8a0e479728c711697f41efeca633bd4c34a/images/mypic%20(1).png?raw=true" width=auto height=300/></div>
 
 For the tool that you use the most, how do you use it and what is the most compelling or useful feature that it has?
-![WordCloud](/LALA/images/mypic.png)
+<div style="text-align:center"><img src="https://github.com/UWSocialComputing/LALA/blob/79efe8a0e479728c711697f41efeca633bd4c34a/images/mypic.png?raw=true" width=auto height=300/></div>
 
 
 ## Design Challenges/Opportunities
