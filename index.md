@@ -1,5 +1,4 @@
 
-# StudyCafeBot
 <div style="text-align:center"><img src="https://github.com/UWSocialComputing/LALA/blob/main/images/Logo.png?raw=true" width=150 height=150/></div>
 
 Check out our <a href="https://github.com/UWSocialComputing/LALA-Project">GitHub Respository</a> to learn more about this tool, and read through our <a href="https://uwsocialcomputing.github.io/LALA/archive.html">Blog Posts</a> to learn about our ideation and development process! 
