@@ -40,13 +40,13 @@ _Assignment G4_
 ## Part 2: Storyboard
 
 **Scenario 1:** Person wants to find a study group in a class discord server, schedules one through study bot.
-![G4-storyboard1](/LALA/images/G4-storyboard1.PNG)
+<div style="text-align:center"><img src="https://github.com/UWSocialComputing/LALA/blob/b8c38ffd5f504dd6895f9020e17d32b918f3cd32/images/G4-storyboard1.PNG?raw=true" width=auto height=300/></div>
 
 **Scenario 2:** People track each other's goals and hold each other accountable during a group study session run by bot. 
-![G4-storyboard2](/LALA/images/G4-storyboard2.PNG)
+<div style="text-align:center"><img src="https://github.com/UWSocialComputing/LALA/blob/b8c38ffd5f504dd6895f9020e17d32b918f3cd32/images/G4-storyboard2.PNG?raw=true" width=250 height=auto/></div>
 
 ## Part 3: Architectural Design
-![G4-ArchitecturalDesign](/LALA/images/G4-ArchitecturalDesign.jpg)
+<div style="text-align:center"><img src="https://github.com/UWSocialComputing/LALA/blob/b8c38ffd5f504dd6895f9020e17d32b918f3cd32/images/G4-ArchitecturalDesign.jpg?raw=true" width=auto height=300/></div>
 
 ## Part 4: How System Description Enables Storyboard and Requirements
 All of the main functional requirements we described in Part 1 have corresponding event handlers in our architectural design. As shown in the architectural design for our project, we plan to have a python file to connect to a user’s guild (server), authenticate access, and then execute above event handlers corresponding to the functional requirements. The file/functions will be written in a way that can handle flow of use as illustrated in our two storyboards.
