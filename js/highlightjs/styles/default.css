@@ -97,3 +97,11 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 .hljs-strong {
   font-weight: bold;
 }
+
+.site-title {
+  color: #D6E1F7;
+}
+
+.site-nav {
+  color: #B4CBB4;
+}
