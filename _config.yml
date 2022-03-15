@@ -40,3 +40,6 @@ defaults:
       type: post
     values:
       tags: Other
+
+# Theme color of the site
+accent_color: '#D6E1F7'
