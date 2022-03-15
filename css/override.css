@@ -43,3 +43,11 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+.site-title {
+  color: #D6E1F7;
+}
+
+.site-nav {
+  background-color: #B4CBB4;
+}
